@@ -1,5 +1,8 @@
 # Spicetify-Installer-Unofficial
 
+---
+
+
 
 
 # If you want to go use their powershell script 
